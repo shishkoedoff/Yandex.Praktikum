@@ -1,6 +1,6 @@
 # Оптимизация затрат на внепечную обработку стали
 
-[HTML](https://github.com/shishkoedoff/DS-professional-training-course-at-Yandex.Praktikum/blob/main/16%20-%20Predicting%20the%20temperature%20of%20steel%20after%20processing/Portfolio%20-%20Project%2016.html)     [ipynb](https://github.com/shishkoedoff/DS-professional-training-course-at-Yandex.Praktikum/blob/main/16%20-%20Predicting%20the%20temperature%20of%20steel%20after%20processing/Portfolio%20-%20Project%2016.ipynb)
+[HTML](https://github.com/shishkoedoff/Yandex.Praktikum/blob/main/16%20-%20Predicting%20the%20temperature%20of%20steel%20after%20processing/Portfolio%20-%20Project%2016.html)     [ipynb](https://github.com/shishkoedoff/Yandex.Praktikum/blob/main/16%20-%20Predicting%20the%20temperature%20of%20steel%20after%20processing/Portfolio%20-%20Project%2016.ipynb)
 
 ## Описание проекта
 
