@@ -1,4 +1,4 @@
-# Улучшение процесса обогащения золота
+# Machine Learning (ML): <br/>Улучшение процесса обогащения золота
 
 [HTML](https://github.com/shishkoedoff/DS-professional-training-course-at-Yandex.Praktikum/blob/main/09%20-%20Gold%20extraction%20forecast/Portfolio%20-%20Project%2009.html)     [ipynb](https://github.com/shishkoedoff/DS-professional-training-course-at-Yandex.Praktikum/blob/main/09%20-%20Gold%20extraction%20forecast/Portfolio%20-%20Project%2009.ipynb)
 
