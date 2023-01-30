@@ -1,6 +1,6 @@
 # Yandex.Praktikum Data Science Projects
 
-Проекты, выполненные в ходе обучения профессии ["Специалист по Data Science" в Яндекс.Практикуме](https://praktikum.yandex.ru/data-scientist/)
+Проекты, выполненные в ходе обучения профессии "Специалист по Data Science" в Яндекс.Практикуме [(о курсе)](https://praktikum.yandex.ru/data-scientist/)
 
 
 | #    | Наименование проекта                | Описание                                                     | Стек                                                         |
