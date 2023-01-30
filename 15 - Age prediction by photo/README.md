@@ -1,6 +1,6 @@
-# Computer vision (CV) - Оценка возраста человека по фотографии
+# Computer vision (CV): Оценка возраста человека по фотографии
 
-[HTML](https://github.com/shishkoedoff/Yandex.Praktikum)     [ipynb](https://github.com/shishkoedoff/Yandex.Praktikum/)
+[HTML](https://clck.ru/33QBcS)     [ipynb](https://clck.ru/33QBfr)
 
 ## Описание проекта
 
