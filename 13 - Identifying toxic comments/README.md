@@ -1,6 +1,6 @@
 # Natural Language Processing (NLP): <br/>Определение ''токсичных'' комментариев
 
-[HTML](https://clck.ru/33QBcS)     [ipynb](https://clck.ru/33QBfr)
+[HTML](https://github.com/shishkoedoff/Yandex.Praktikum/blob/main/13%20-%20Identifying%20toxic%20comments/Portfolio%20-%20Project%2013.html)     [ipynb](https://github.com/shishkoedoff/Yandex.Praktikum/blob/main/13%20-%20Identifying%20toxic%20comments/Portfolio%20-%20Project%2013.ipynb)
 
 ## Описание проекта
 
